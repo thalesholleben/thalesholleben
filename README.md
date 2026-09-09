@@ -1,4 +1,26 @@
-## Thales Gomes
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.png">
+    <img alt="Thales Gomes. Sites, agentes de IA e software. IA escreve, eu arquiteto." src="assets/banner-escuro.png" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://thalesgomes.com"><img alt="Site" src="https://img.shields.io/badge/SITE-thalesgomes.com-1695d4?style=for-the-badge&labelColor=21262d"></a>
+  <a href="https://syntaxlab.com.br"><img alt="SyntaxLab" src="https://img.shields.io/badge/SOFTWARE-syntaxlab.com.br-0a5a8a?style=for-the-badge&labelColor=21262d"></a>
+  <a href="https://wa.me/5548996036047"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-48%2099603--6047-25d366?style=for-the-badge&labelColor=21262d"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thalesgomes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-thalesgomes-0a66c2?style=flat-square&labelColor=21262d"></a>
+  <a href="https://www.instagram.com/thalesgomes.ia/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thalesgomes.ia-d6249f?style=flat-square&labelColor=21262d"></a>
+  <a href="https://www.youtube.com/@thalesgomes-ia"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-thalesgomes--ia-ff0000?style=flat-square&labelColor=21262d"></a>
+  <img alt="Base" src="https://img.shields.io/badge/Base-Florian%C3%B3polis%2C%20SC-8b949e?style=flat-square&labelColor=21262d">
+  <img alt="Idioma" src="https://img.shields.io/badge/Idioma-PT--BR-8b949e?style=flat-square&labelColor=21262d">
+</p>
+
+---
 
 Desenvolvedor em Florianópolis, Santa Catarina. Construo sites, agentes de IA e software sob medida usando Claude Code e Codex, e ensino esse mesmo método para quem quer sair da ferramenta visual e assumir o código com IA.
 
@@ -9,6 +31,8 @@ São mais de 300 projetos entregues e mais de 10 sistemas com IA rodando em prod
 **[syntaxlab.com.br](https://syntaxlab.com.br)** é a software house: sistemas, SaaS multi-tenant e agentes de IA em React, NestJS e Postgres, com discovery antes do contrato, escopo e prazo fechados, entrega em 60 a 90 dias, a partir de R$ 20.000.
 
 **[thalesgomes.com](https://thalesgomes.com)** é onde eu ensino: cursos e mentoria individual para web designer, gestor de automação e dev que bateu no teto do no-code e quer construir com Claude Code e Codex, com trilha gratuita para quem está começando do zero.
+
+**[thalesmarketing.com.br](https://thalesmarketing.com.br)** é a frente de funil e automação de marketing para infoprodutor, coprodutor e gestor de tráfego: funis, landing pages, testes A/B, tracking server-side e automação de anúncios.
 
 ### O que tem aqui
 
@@ -29,6 +53,6 @@ TypeScript, React, Next.js, NestJS, PostgreSQL, Python, Docker, n8n e Evolution 
 
 ### Falar comigo
 
-E-mail em contato@thalesgomes.com, WhatsApp no +55 48 99603-6047, e também no [LinkedIn](https://www.linkedin.com/in/thalesgomes/), no [Instagram](https://www.instagram.com/thalesgomes.ia/) e no [YouTube](https://www.youtube.com/@thalesgomes-ia). Atendo em português, do Brasil.
+WhatsApp no +55 48 99603-6047, e-mail em contato@thalesgomes.com, e também no [LinkedIn](https://www.linkedin.com/in/thalesgomes/), no [Instagram](https://www.instagram.com/thalesgomes.ia/) e no [YouTube](https://www.youtube.com/@thalesgomes-ia). Atendo em português, do Brasil.
 
 Para não confundir: não tenho relação com o grupo Thales de defesa nem com Tallis Gomes.
